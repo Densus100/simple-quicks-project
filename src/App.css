@@ -2,23 +2,15 @@
   text-align: center;
 }
 
-.My-primary{
+.My-primary {
   background-color: #333333;
-  height: 100vh;  
+  height: 100vh;
 }
 
-.My-fab-wrapper{
-  position:fixed;
-  right:20px;
-  bottom:20px;
-
+.My-fab-wrapper {
+  position: fixed;
+  bottom: 20px;
 }
-
-.My-fab{
-  background-color: #2F80ED;
-  color: white;
-}
-
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
